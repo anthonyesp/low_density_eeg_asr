@@ -17,7 +17,7 @@ function cleaned_signal = memd_asr(signal, cal_int, k, samp_r, w)
 % - The "clean_rawdata" path must be added for the function to work. The
 % plug-in is accessible from: https://github.com/sccn/clean_rawdata
 % - The "NAMEMD" path must be added for the function to work. The plug-in
-% is accessible from: ################################################### ADD LINK
+% is accessible from: https://www.neuro.uestc.edu.cn/NA-MEMD.html
 
 if size(signal,2) > 4
     error('Please, use ASR alone!')
