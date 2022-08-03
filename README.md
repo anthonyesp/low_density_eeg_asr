@@ -14,6 +14,9 @@ You can use any data, but if you are willing to replicate the results of the ref
  - SEED-G simulator (https://doi.org/10.3390/s21113632) + EEGdenoiseNet (https://github.com/ncclabsustech/EEGdenoiseNet)
  - real data with artifact from https://github.com/stefan-ehrlich/dataset-automaticArtifactRemoval
 
+## How to
+Don't worry, we are going to explain...
+
 ## Further details
 
 1. A. Cataldo, S. Criscuolo, E. De Benedetto, S. Invitto, A. Masciullo, M. Pesola, and R. Schiavoni, "A Method for Optimizing the ASR Performance in low-density EEG", submitted to IEEE Sensors Journal (August 2022)
