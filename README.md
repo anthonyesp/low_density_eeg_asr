@@ -15,7 +15,7 @@ You can use any data, but if you are willing to replicate the results of the ref
  - real data with artifact from https://github.com/stefan-ehrlich/dataset-automaticArtifactRemoval
 
 ## How to
-Don't worry, we are going to explain...
+Don't worry, we are going to explain... in the meanwhile, you will find what we did in the following references!
 
 ## Further details
 
