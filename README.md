@@ -9,6 +9,8 @@ These scripts are related to:
 
 ## Suggested data
 You can use any data, but if you are willing to replicate the results of the references below, we suggest:
+
+ - MRC EEG data simulator (https://doi.org/10.1111/j.1469-8986.2004.00239.x) + EEGdenoiseNet (https://github.com/ncclabsustech/EEGdenoiseNet)
  - SEED-G simulator (https://doi.org/10.3390/s21113632) + EEGdenoiseNet (https://github.com/ncclabsustech/EEGdenoiseNet)
  - real data with artifact from https://github.com/stefan-ehrlich/dataset-automaticArtifactRemoval
 
