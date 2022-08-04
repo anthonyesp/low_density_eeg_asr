@@ -13,6 +13,10 @@ You can use any data, but if you are willing to replicate the results of the ref
  - MRC EEG data simulator (https://doi.org/10.1111/j.1469-8986.2004.00239.x) + EEGdenoiseNet (https://github.com/ncclabsustech/EEGdenoiseNet)
  - SEED-G simulator (https://doi.org/10.3390/s21113632) + EEGdenoiseNet (https://github.com/ncclabsustech/EEGdenoiseNet)
  - real data with artifact from https://github.com/stefan-ehrlich/dataset-automaticArtifactRemoval
+ 
+## Requirements 
+
+ - EEGLAB version 2021.1
 
 ## How to
 Don't worry, we are going to explain... in the meanwhile, you will find what we did in the following references!
