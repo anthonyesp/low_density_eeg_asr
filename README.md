@@ -4,7 +4,7 @@
 Scripts are provided to investigate or apply artifact removal to EEG signals with a focus on a few channels case (i.e., low-density EEG). 
 
 These scripts are related to:
- - finding optimal parameters for ASR
+ - finding optimal parameters for ASR,
  - using multivariate empirical mode decomposition (MEMD) with ASR to deal with few channels
 
 ## Suggested data
