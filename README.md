@@ -23,6 +23,6 @@ Don't worry, we are going to explain... in the meanwhile, you will find what we 
 
 ## Further details
 
-1. A. Cataldo, S. Criscuolo, E. De Benedetto, S. Invitto, A. Masciullo, M. Pesola, and R. Schiavoni, "A Method for Optimizing the ASR Performance in low-density EEG", submitted to IEEE Sensors Journal (August 2022)
+1. A. Cataldo, S. Criscuolo, E. De Benedetto, A. Masciullo, M. Pesola, R. Schiavoni, and S. Invitto "A Method for Optimizing the ASR Performance in low-density EEG", submitted to IEEE Sensors Journal (August 2022)
 2. P. Arpaia, E. De Benedetto, A. Esposito, A. Natalizio, M. Parvis, and M. Pesola, "Low-density EEG correction with multivariate decomposition and artifact subspace reconstruction", submitted to IEEE Transactions on Instrumentation and Measurement (August 2022)
 3. P. Arpaia, E. De Benedetto, A. Esposito, A. Natalizio, M. Parvis, and M. Pesola, "Comparing artifact removal techniques for daily-life electroencephalography with few channels", in IEEE International Symposium on Medical Measurements and Applications, (Taormina, Italy), 2022.
