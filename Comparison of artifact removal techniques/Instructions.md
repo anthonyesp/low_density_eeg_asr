@@ -2,11 +2,9 @@
 Arpaia et al. "Comparing artifact removal techniques for daily-life electroencephalography with few channels", 2022, IEEE International Symposium on Medical Measurements and Applications (MeMeA).
 
 ## Requirements for MATLAB:
- - EEGLAB toolbox (https://eeglab.org/others/EEGLAB_References.html)
- - EEGLAB's plugins:
-      clean_rawdata (https://github.com/sccn/clean_rawdata)
-      ICLabel (https://github.com/sccn/ICLabel)
- - boundedline repository (https://github.com/kakearney/boundedline-pkg/)
+ - [EEGLAB toolbox](https://eeglab.org/others/EEGLAB_References.html)
+ - EEGLAB's plugins: [clean_rawdata](https://github.com/sccn/clean_rawdata), [ICLabel](https://github.com/sccn/ICLabel)
+ - [boundedline plot](https://github.com/kakearney/boundedline-pkg/)
 
 ## How to run the code as described in the paper:
  1. Open "main.m" in MATLAB.
