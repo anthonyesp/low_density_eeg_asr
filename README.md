@@ -23,7 +23,6 @@ You will find what we did in the following references!
 
 ## Further details
 
-1. A. Cataldo, S. Criscuolo, E. De Benedetto, A. Masciullo, M. Pesola, R. Schiavoni, and S. Invitto "A Method for Optimizing the ASR Performance in low-density EEG", submitted to IEEE Sensors Journal (August 2022)
-2. P. Arpaia, E. De Benedetto, A. Esposito, A. Natalizio, M. Parvis, and M. Pesola, "Low-density EEG correction with multivariate decomposition and artifact subspace reconstruction", to be submitted
+1. A. Cataldo, S. Criscuolo, E. De Benedetto, A. Masciullo, M. Pesola, R. Schiavoni, and S. Invitto "A Method for Optimizing the ASR Performance in low-density EEG", IEEE Sensors Journal, 22(21), pp.21257-21265.
+2. P. Arpaia, E. De Benedetto, A. Esposito, A. Natalizio, M. Parvis, and M. Pesola, "Low-density EEG correction with multivariate decomposition and artifact subspace reconstruction", IEEE Sensors Journal, 2023 (to be published)
 3. P. Arpaia, E. De Benedetto, A. Esposito, A. Natalizio, M. Parvis, and M. Pesola, "Comparing artifact removal techniques for daily-life electroencephalography with few channels", in IEEE International Symposium on Medical Measurements and Applications, (Taormina, Italy), 2022.
-4. "Motor imagery brain-computer interface and extended reality" [project on ResearchGate](https://www.researchgate.net/project/Motor-imagery-brain-computer-interface-and-extended-reality)
